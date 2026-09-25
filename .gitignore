@@ -1,0 +1,14 @@
+# Private source documents
+data/
+
+# Secrets
+.env
+.env.*
+
+# Python-generated files
+__pycache__/
+*.pyc
+.venv/
+
+# Local temporary files
+tmp/
