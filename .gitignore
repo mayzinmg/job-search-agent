@@ -1,6 +1,5 @@
 # Private source documents
-data/
-
+data/private/
 # Secrets
 .env
 .env.*
